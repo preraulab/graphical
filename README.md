@@ -2,7 +2,7 @@
 
 Higher-level plot primitives — line + shaded bounds, Gantt charts, phase histograms, 3-D wireframes.
 
-Part of the Prerau Lab [`utils`](https://github.com/preraulab/utils) meta-repository. Can also be used standalone.
+Part of the Prerau Lab [`preraulab_utilities`](https://github.com/preraulab/preraulab_utilities) meta-repository. Can also be used standalone.
 
 ## When to use which
 

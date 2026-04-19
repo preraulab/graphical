@@ -28,7 +28,6 @@ function handles = gantt(data, labels, color, varargin)
 %   See also: rectangle
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin == 0 || isempty(data)
     g1 = [1 3; 7 12; 24 29];

@@ -21,7 +21,6 @@ function img_downsampled = conv_downsample(img, scale_factor, method, plot_on)
 %   See also: conv2, ordfilt2, imresize
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 %Set example data
 if nargin == 0

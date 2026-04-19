@@ -27,7 +27,6 @@ function tbox = lm_plot(varargin)
 %   See also: fitlm, annotation, plotAdded
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin == 0
     close all;

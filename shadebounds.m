@@ -27,7 +27,6 @@ function [line_handle, bounds_handle] = shadebounds(x, mid, hi, lo, mid_color, s
 %   See also: fill, plot
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 % Set defaults for optional input arguments
 if nargin < 5

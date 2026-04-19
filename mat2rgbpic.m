@@ -24,7 +24,6 @@ function RGBimage = mat2rgbpic(varargin)
 %   See also: imwrite, colormap, ind2rgb
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 data=flipud(varargin{1});
 file_name=varargin{2};

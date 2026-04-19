@@ -35,7 +35,6 @@ function [h_box, pvals] = group_boxchart(data, groupid, feature_labels, group_la
 %   See also: boxchart, ttest2, sigstar
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin == 0
     %% Generate Data

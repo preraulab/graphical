@@ -31,7 +31,6 @@ function handles = wireframe(X, Y, Z, varargin)
 %   See also: surface, plot3
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin == 0
     [X, Y, Z] = peaks(500);

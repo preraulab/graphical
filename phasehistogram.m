@@ -27,7 +27,6 @@ function [theta_mean, rho_mean, h_phist, h_pax, h_ml] = phasehistogram(phases, a
 %   See also: polarhistogram, polarplot
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 if nargin==0
     error('Must input phases');

@@ -23,7 +23,6 @@ function area_handles = threshold_plot(x, y, threshes, colors)
 %   See also: area, sort, colormap
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 % Create test data if no input arguments are provided
 if nargin == 0

@@ -21,7 +21,6 @@ classdef range_numberline < handle
 %   See also: rectangle, line
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
     properties
         ax % Axis for plot
